@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to software development, I'm happy to help!
-- 📫 How to reach me: [Your Email](mailto:1757754404@qq.com)
-- 😄 Pronouns: They/Them
+- 📫 How to reach me: [jinjin](mailto:1757754404@qq.com)
+- 😄 Pronouns: Mr
 
 ## Skills
 
